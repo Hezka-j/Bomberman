@@ -1,0 +1,27 @@
+﻿  Bomberrman.cpp
+D:\Проекты\Bomberrman\View.h(36,15): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "Bomberrman.cpp")
+  
+D:\Проекты\Bomberrman\Bomberrman.cpp(35,52): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+D:\Проекты\Bomberrman\Bomberrman.cpp(35,52): warning C4244:         with
+D:\Проекты\Bomberrman\Bomberrman.cpp(35,52): warning C4244:         [
+D:\Проекты\Bomberrman\Bomberrman.cpp(35,52): warning C4244:             T=int
+D:\Проекты\Bomberrman\Bomberrman.cpp(35,52): warning C4244:         ]
+D:\Проекты\Bomberrman\Bomberrman.cpp(35,45): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+D:\Проекты\Bomberrman\Bomberrman.cpp(35,45): warning C4244:         with
+D:\Проекты\Bomberrman\Bomberrman.cpp(35,45): warning C4244:         [
+D:\Проекты\Bomberrman\Bomberrman.cpp(35,45): warning C4244:             T=int
+D:\Проекты\Bomberrman\Bomberrman.cpp(35,45): warning C4244:         ]
+D:\Проекты\Bomberrman\Bomberrman.cpp(186,29): warning C4305: аргумент: усечение из "double" в "float"
+D:\Проекты\Bomberrman\Bomberrman.cpp(187,36): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+D:\Проекты\Bomberrman\Bomberrman.cpp(197,29): warning C4305: аргумент: усечение из "double" в "float"
+D:\Проекты\Bomberrman\Bomberrman.cpp(198,36): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+D:\Проекты\Bomberrman\Bomberrman.cpp(208,29): warning C4305: аргумент: усечение из "double" в "float"
+D:\Проекты\Bomberrman\Bomberrman.cpp(209,36): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+D:\Проекты\Bomberrman\Bomberrman.cpp(219,29): warning C4305: аргумент: усечение из "double" в "float"
+D:\Проекты\Bomberrman\Bomberrman.cpp(220,36): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+D:\Проекты\Bomberrman\Bomberrman.cpp(234,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Проекты\Bomberrman\Bomberrman.cpp(250,20): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+D:\Проекты\Bomberrman\Bomberrman.cpp(274,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Проекты\Bomberrman\Bomberrman.cpp(274,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Bomberrman.vcxproj -> D:\Проекты\Bomberrman\x64\Debug\Bomberrman.exe
